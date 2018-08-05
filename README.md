@@ -1,6 +1,9 @@
 <p align="center"><img width="40%" src="png/logo.png" /></p>
 
 --------------------------------------------------------------------------------
+
+[![GuardRails badge](https://badges.production.guardrails.io/shtakai/StarGAN.svg)](https://www.guardrails.io)
+
 PyTorch implementation of [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation](https://arxiv.org/abs/1711.09020). StarGAN can flexibly translate an input image to any desired target domain using only a single generator and a discriminator. 
 
 <p align="center"><img width="100%" src="png/main.png" /></p>
